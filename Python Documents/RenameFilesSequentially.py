@@ -1,6 +1,6 @@
 import os
 
-folderPath = r'D:/User/Salvarki/Desktop/Selezione 200 Volti Normali'
+folderPath = r'C:/myFolder'
 
 fileSequence = 1
 
